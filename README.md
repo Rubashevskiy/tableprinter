@@ -3,7 +3,6 @@
 A lightweight, high-performance, type-safe Go library that automatically formats slices of structures into clean, customizable text tables using struct tags and generics.
 
 [![Go Reference](https://go.dev)](https://go.dev)
-[![Go Report Card](https://goreportcard.com)](https://goreportcard.com)
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 ## Features
